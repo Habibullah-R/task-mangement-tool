@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local data file
+tasks.json
+
+# System files
+.DS_Store
